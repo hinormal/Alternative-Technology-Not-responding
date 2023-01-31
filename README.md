@@ -6,4 +6,5 @@ Modrinth URL : "https://modrinth.com/modpack/alternative-technology-not-respondi
 Wait for it ....
 
 Update Log:
-January first, 2023. nine o'clock: Ready to development this modpack.
+
+2023/1/31. nine o'clock: Ready to development this modpack.
