@@ -12,4 +12,4 @@ Update Log:
 
 2023/1/31. 10:10: finished first step. Add 3 items, 1 repices. Remove 7 repices.
 
-2023/2/1. 9:00: Add 2 times, 2 mods, 4 repices, 2 jei informations, 7 FTB quests.
+2023/2/1. 9:00: Add 2 items, 2 mods, 4 repices, 2 jei informations, 7 FTB quests.
